@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Author: Jose Maria Santos
+${licensePrefix}August 2017
+<#if licenseLast??>
+${licenseLast}
+</#if>
